@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "input_ADV",
+"productVersion": "0.1",
+"dataUrl": "gameShark_gitRemote.data.unityweb",
+"wasmCodeUrl": "gameShark_gitRemote.wasm.code.unityweb",
+"wasmFrameworkUrl": "gameShark_gitRemote.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#352424",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.1f1"
+}
